@@ -1,0 +1,3 @@
+/Users/verdayuksel/CLionProjects/damn/cmake-build-debug/CMakeFiles/damn.dir
+/Users/verdayuksel/CLionProjects/damn/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/verdayuksel/CLionProjects/damn/cmake-build-debug/CMakeFiles/rebuild_cache.dir
